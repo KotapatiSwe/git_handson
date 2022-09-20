@@ -1,7 +1,12 @@
 <customer>
 	<name>Swetha Kotapati</name>
 	<state>AndhraPradesh</state>
+<<<<<<< HEAD
 	<city>Kurnool</city>
 	<street>Ramakrishna Nagar</street>
 	<age>22</age>
 </customer>		
+=======
+</customer>
+
+>>>>>>> Gitwork
